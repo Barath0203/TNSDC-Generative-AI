@@ -40,4 +40,4 @@ The cGAN architecture consists of:
 ## Results
 
 Here I have given my demo link
-[Image to Image Translation]https://drive.google.com/file/d/1xawAK7cJ6lox0ef0ikfR_te7Ko3GzjWM/view?usp=sharing
+[Image to Image Translation]https://drive.google.com/file/d/1esFi0YR7Q8WzPDnFErJbaznbb8te6N26/view?usp=sharing
